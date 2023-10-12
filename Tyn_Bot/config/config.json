@@ -1,0 +1,139 @@
+﻿{
+    "presence": "play with VVC!",
+    "IS_DEV": false,
+    "guild": "426331196356558848",
+    "logChannel": "1135930842355605644",
+    "AFKChannel": "1136376608794628106",
+    "welcomeChannel": "1147679127944564807",
+    "LIMIT_INVITE": 5,
+    "INVITE_CREDIT": 150,
+    "verifyRole": {
+        "id": "1131818906940616706",
+        "name": "ĐÃ XÁC MINH",
+        "credit": 100,
+        "voiceCredit": 2,
+        "limitCredit": 250,
+		"bonusCredit": 0,
+		"ddCredit": 10
+    },
+    "ranks": {
+        "UNRANKED": {
+            "role": "1128265053980864592",
+            "credit": 100,
+            "voiceCredit": 2,
+            "limitCredit": 432,
+			"bonusCredit": 0,
+			"ddCredit": 10
+        },
+        "IRON": {
+            "role": "1128265280045469706",
+            "credit": 100,
+            "voiceCredit": 3,
+            "limitCredit": 432,
+			"bonusCredit": 0,
+			"ddCredit": 10
+        },
+        "BRONZE": {
+            "role": "1128265380377415861",
+            "credit": 156,
+            "voiceCredit": 4,
+            "limitCredit": 576,
+			"bonusCredit": 0,
+			"ddCredit": 15
+        } ,
+        "SILVER": {
+            "role": "1128265450514554890",
+            "credit": 313,
+            "voiceCredit": 5,
+            "limitCredit": 720,
+			"bonusCredit": 0,
+			"ddCredit": 20
+        },
+        "GOLD": {
+            "role": "1128265524120408166",
+            "credit": 625,
+            "voiceCredit": 6,
+            "limitCredit": 864,
+			"bonusCredit": 0,
+			"ddCredit": 30
+        },
+        "PLATINUM": {
+            "role": "1128265563739791443",
+            "credit": 1250,
+            "voiceCredit": 7,
+            "limitCredit": 1008,
+			"bonusCredit": 0,
+			"ddCredit": 40
+        },
+        "DIAMOND": {
+            "role": "1128265974257291345",
+            "credit": 2500,
+            "voiceCredit": 8,
+            "limitCredit": 1152,
+			"bonusCredit": 0,
+			"ddCredit": 50
+        },
+        "ASCENDANT": {
+            "role": "1128266011058114581",
+            "credit": 5000,
+            "voiceCredit": 9,
+            "limitCredit": 1296,
+			"bonusCredit": 0,
+			"ddCredit": 60
+        },
+        "IMMORTAL": {
+            "role": "1128266068754956328",
+            "credit": 10000,
+            "voiceCredit": 10,
+            "limitCredit": 1440,
+			"bonusCredit": 0,
+			"ddCredit": 70
+        },
+        "RADIANT":{
+            "role": "1128266127903031346",
+            "credit": 20000,
+            "voiceCredit": 11,
+            "limitCredit": 1584,
+			"bonusCredit": 0,
+			"ddCredit": 100
+        }
+    },
+    "bonusRoles": {
+        "boosted": {
+            "role": "1132943071995244565",
+            "bonus": 15
+        },
+        "vip": {
+            "role": "1136277560255320146",
+            "bonus": 25
+        },
+        "vip+": {
+            "role": "1136278446369157120",
+            "bonus": 50
+        }
+    },
+    "welcomeCredit": {
+        "DEFAULT": "40,100",
+        "1136277560255320146": "100,150",
+        "1136278446369157120": "100,300"
+    },
+    "inCreaseLimit": {
+        "boosted": {
+            "role": "1132943071995244565",
+            "limitCredit": 500
+        },
+        "vip": {
+            "role": "1136277560255320146",
+            "limitCredit": 1000
+        },
+        "vip+": {
+            "role": "1136278446369157120",
+            "limitCredit": "noLimit"
+        }
+    },
+    "admins": [
+        "686820919934451753",
+        "974332338509086850",
+		"262956925493182464"
+    ]
+}
