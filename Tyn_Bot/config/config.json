@@ -101,15 +101,15 @@
     "bonusRoles": {
         "boosted": {
             "role": "1132943071995244565",
-            "bonus": 15
+            "bonus": "15%"
         },
         "vip": {
             "role": "1136277560255320146",
-            "bonus": 25
+            "bonus": "25%"
         },
         "vip+": {
             "role": "1136278446369157120",
-            "bonus": 50
+            "bonus": "50%"
         }
     },
     "welcomeCredit": {

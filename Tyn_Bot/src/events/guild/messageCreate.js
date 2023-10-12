@@ -62,7 +62,7 @@ module.exports = {
                         });
                     if (rankIcon !== "") embed.setThumbnail(rankIcon)
                     await message.channel.send({
-                        content: message.author.toString() + " <@&1136605470438723676> " + (msg ? msg : ""),
+                        content: message.author.toString() + "" + (msg ? msg : ""),
                         embeds: [embed],
                         components: [actionsRow]
                     })

@@ -12,7 +12,12 @@ module.exports = {
         const keywords = [
             'xin chào',
             'hello',
-            'chào mừng'
+            'chào mừng',
+            'hi',
+            'hey',
+            'hè lố',
+            'ông',
+            'bà'
         ];
         for (let keyword of keywords) {
             if (content.includes(keyword.toLowerCase())) {
